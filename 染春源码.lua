@@ -27,7 +27,7 @@ local Doors = DoorsT:section("通用&功能",true)
 local DOORSR = DoorsT:section("透视",true)
 local BP = DoorsT:section("其他",true)
 
-local LLCQt = Window:Tab("力量传奇",'111810906443865)
+local LLCQt = Window:Tab("力量传奇","111810906443865")
 local LLCQ = LLCQt:section("主要&功能",true)
 local LLQR = LLCQt:section("自动收集",true)
 local LLRQ = LLCQt:section("跑步机",true)
