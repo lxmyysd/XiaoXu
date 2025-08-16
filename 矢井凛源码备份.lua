@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/lxmyysd/XiaoXu/refs/heads/main/roblox-ui.lua"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/JsYb666/UI/refs/heads/main/%E5%BD%A9%E8%99%B9.lua"))()
 
 local Window = library:new("矢井凛")
 
